@@ -1,0 +1,20 @@
+.demowhite
+{
+	border-color: #1e1e1e;
+	background-color: #1e1e1e;
+	color:#ffffff;
+}
+
+.demoblock
+{
+	border-color: #ffffff;
+	background-color: #ffffff;
+	color:#1e1e1e;
+}
+
+.comprarboton
+{
+	background-color:#ebc8cc;
+	border-color: #ebc8cc;
+	color:#1E1E1e;
+}
